@@ -1,2 +1,2 @@
 # allien-invasion
-Allien Invasion clone wth Pygame
+Allien Invasion clone wth Python and Pygame
